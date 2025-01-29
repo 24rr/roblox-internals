@@ -1,6 +1,6 @@
 Bypassing this check is pretty easy; I'm surprised Roblox hasn't patched it yet. We can do it by patching the WinVerifyTrust function that is part of the Wintrust.dll DLL, you can use this method in conjunction with the SetWindowsHookEx function to inject into ROBLOX. While this isn't the only way to bypass the DLL signature checks, it is the simplest.
 
-```
+```c
 void HookWindowsVerify() {
 
     DWORD PID = GetPID("RobloxPlayerBeta.exe"); // get the process id of roblox
