@@ -47,18 +47,6 @@
         "github": ""
       },
       "date": "2024-09-14"
-    },
-    {
-      "id": "test-article",
-      "title": "Test Article",
-      "description": "Test Article",
-      "readme_file": "README.md",
-      "author": {
-        "name": "test",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfkKM2JgaCJGvv--dZAGjByudFj7pVCH2ig&s",
-        "github": ""
-      },
-      "date": "2025-01-29"
     }
   ]
 } 
