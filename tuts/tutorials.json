@@ -35,6 +35,18 @@
         "github": ""
       },
       "date": "2024-10-29"
+    },
+    {
+      "id": "roblox-winverifytrust",
+      "title": "How to Bypass Roblox DLL Signature Checks",
+      "description": "Bypassing Roblox's DLL signature checks using WinVerifyTrust",
+      "readme_file": "README.md",
+      "author": {
+        "name": "CoreDumped",
+        "image": "https://user-assets.v3rm.net/avatars/l/59/59308.jpg?1723633762",
+        "github": ""
+      },
+      "date": "2024-10-29"
     }
   ]
 } 
