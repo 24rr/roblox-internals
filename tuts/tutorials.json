@@ -1,0 +1,40 @@
+{
+  "tutorials": [
+    {
+      "id": "vm-shuffles",
+      "title": "VM Shuffles",
+      "description": "Learn about Roblox's VM instruction shuffling and its impact on exploitation",
+      "readme_file": "README.md",
+      "author": {
+        "name": "trypt.amine",
+        "image": "https://github.com/NougatBitz.png",
+        "github": "https://github.com/NougatBitz"
+      },
+      "date": "2024-02-15"
+    },
+    {
+      "id": "offsets",
+      "title": "Memory Offsets",
+      "description": "Understanding memory offsets and patterns in Roblox's memory layout",
+      "readme_file": "README.md",
+      "author": {
+        "name": "trypt.amine",
+        "image": "https://github.com/NougatBitz.png",
+        "github": "https://github.com/NougatBitz"
+      },
+      "date": "2024-02-10"
+    },
+    {
+      "id": "hyperion-analysis",
+      "title": "Hyperion Analysis",
+      "description": "Analyzing Hyperion's anti-tamper architecture",
+      "readme_file": "README.md",
+      "author": {
+        "name": "vectless",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfkKM2JgaCJGvv--dZAGjByudFj7pVCH2ig&s",
+        "github": ""
+      },
+      "date": "2024-10-29"
+    }
+  ]
+} 
