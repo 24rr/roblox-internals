@@ -38,7 +38,7 @@
     },
     {
       "id": "roblox-winverifytrust",
-      "patched": "true",
+      "patched": true,
       "title": "How to Bypass Roblox DLL Signature Checks",
       "description": "Bypassing Roblox's DLL signature checks using WinVerifyTrust",
       "readme_file": "README.md",
