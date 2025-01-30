@@ -47,6 +47,18 @@
         "github": ""
       },
       "date": "2024-09-14"
+    },
+    {
+      "id": "rblox-ce-overview",
+      "title": "Roblox CE overview",
+      "description": "An overview for Roblox Cheat Engine (Anti CE)",
+      "readme_file": "README.md",
+      "author": {
+        "name": "0xDe4dot",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfkKM2JgaCJGvv--dZAGjByudFj7pVCH2ig&s",
+        "github": ""
+      },
+      "date": "2024-09-14"
     }
   ]
 } 
