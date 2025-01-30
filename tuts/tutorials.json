@@ -64,7 +64,7 @@
     {
       "id": "roblox-datamodel-go",
       "title": "Roblox DataModel in GoLang",
-      "description": "This method works whether Roblox is just being opened or is already running. With an optimized and multi-threaded pattern scanner, it takes between 20-250ms to obtain the RenderView.",
+      "description": "With an optimized and multi-threaded pattern scanner, it takes between 20-250ms to obtain the RenderView.",
       "readme_file": "README.md",
       "author": {
         "name": "JesusLovesYou",
