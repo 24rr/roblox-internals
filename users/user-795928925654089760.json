@@ -6,5 +6,8 @@
   "stats": {
     "published": 0,
     "views": 0
-  }
+  },
+  "roles": [
+    "admin"
+  ]
 }
