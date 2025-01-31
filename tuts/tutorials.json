@@ -3,6 +3,7 @@
     {
       "id": "vm-shuffles",
       "title": "VM Shuffles",
+      "postedAdmin": true,
       "description": "Learn about Roblox's VM instruction shuffling and its impact on exploitation",
       "readme_file": "README.md",
       "author": {
@@ -15,6 +16,7 @@
     {
       "id": "offsets",
       "title": "Memory Offsets",
+      "postedAdmin": true,
       "description": "Understanding memory offsets and patterns in Roblox's memory layout",
       "readme_file": "README.md",
       "author": {
@@ -39,6 +41,7 @@
     {
       "id": "roblox-winverifytrust",
       "patched": true,
+      "postedAdmin": true,
       "title": "How to Bypass Roblox DLL Signature Checks",
       "description": "Bypassing Roblox's DLL signature checks using WinVerifyTrust",
       "readme_file": "README.md",
@@ -52,6 +55,7 @@
     {
       "id": "rblox-ce-overview",
       "title": "Roblox CE overview",
+      "postedAdmin": true,
       "description": "An overview for Roblox Cheat Engine (Anti CE)",
       "readme_file": "README.md",
       "author": {
