@@ -1,10 +1,5 @@
 {
-  "discordId": "795928925654089760",
-  "githubUsername": "bufferization",
-  "avatarUrl": "https://raw.githubusercontent.com/24rr/roblox-internals/refs/heads/main/users/profiles/795928925654089760.png",
-  "registered": "2025-01-31T13:03:21.182Z",
-  "stats": {
-    "published": 0,
-    "views": 0
-  }
+  "roles": [
+    "admin"
+  ]
 }
