@@ -1,0 +1,12 @@
+{
+  "id": "test",
+  "title": "test",
+  "description": "test",
+  "date": "2025-01-31T18:02:30.462Z",
+  "author": {
+    "name": "bufferization",
+    "discordId": "795928925654089760",
+    "image": "https://cdn.discordapp.com/avatars/795928925654089760/84d248804da6db335c8cb564d7becc7d.webp"
+  },
+  "patched": false
+}
