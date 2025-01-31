@@ -1,0 +1,12 @@
+{
+  "id": "rust-datamodel-dumper",
+  "title": "How to dump DataModel in Rust",
+  "description": "Xspy's method but converted in Rust",
+  "date": "2025-01-31T14:38:26.476Z",
+  "author": {
+    "name": "bufferization",
+    "discordId": "795928925654089760",
+    "image": "https://cdn.discordapp.com/avatars/795928925654089760/84d248804da6db335c8cb564d7becc7d.webp"
+  },
+  "patched": false
+}
