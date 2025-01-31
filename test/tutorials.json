@@ -1,0 +1,77 @@
+{
+  "tutorials": [
+    {
+      "id": "vm-shuffles",
+      "title": "VM Shuffles",
+      "description": "Learn about Roblox's VM instruction shuffling and its impact on exploitation",
+      "readme_file": "README.md",
+      "author": {
+        "name": "trypt.amine",
+        "image": "https://github.com/NougatBitz.png",
+        "github": "https://github.com/NougatBitz"
+      },
+      "date": "2024-02-15"
+    },
+    {
+      "id": "offsets",
+      "title": "Memory Offsets",
+      "description": "Understanding memory offsets and patterns in Roblox's memory layout",
+      "readme_file": "README.md",
+      "author": {
+        "name": "trypt.amine",
+        "image": "https://github.com/NougatBitz.png",
+        "github": "https://github.com/NougatBitz"
+      },
+      "date": "2024-02-10"
+    },
+    {
+      "id": "hyperion-analysis",
+      "title": "Hyperion Analysis",
+      "description": "Analyzing Hyperion's anti-tamper architecture",
+      "readme_file": "README.md",
+      "author": {
+        "name": "vectless",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfkKM2JgaCJGvv--dZAGjByudFj7pVCH2ig&s",
+        "github": ""
+      },
+      "date": "2024-10-29"
+    },
+    {
+      "id": "roblox-winverifytrust",
+      "patched": true,
+      "title": "How to Bypass Roblox DLL Signature Checks",
+      "description": "Bypassing Roblox's DLL signature checks using WinVerifyTrust",
+      "readme_file": "README.md",
+      "author": {
+        "name": "CoreDumped",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfkKM2JgaCJGvv--dZAGjByudFj7pVCH2ig&s",
+        "github": ""
+      },
+      "date": "2024-09-14"
+    },
+    {
+      "id": "rblox-ce-overview",
+      "title": "Roblox CE overview",
+      "description": "An overview for Roblox Cheat Engine (Anti CE)",
+      "readme_file": "README.md",
+      "author": {
+        "name": "0xDe4dot",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfkKM2JgaCJGvv--dZAGjByudFj7pVCH2ig&s",
+        "github": ""
+      },
+      "date": "2024-09-14"
+    },
+    {
+      "id": "roblox-datamodel-go",
+      "title": "Roblox DataModel in GoLang",
+      "description": "With an optimized and multi-threaded pattern scanner, it takes between 20-250ms to obtain the RenderView.",
+      "readme_file": "README.md",
+      "author": {
+        "name": "JesusLovesYou",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfkKM2JgaCJGvv--dZAGjByudFj7pVCH2ig&s",
+        "github": ""
+      },
+      "date": "2025-01-30"
+    }
+  ]
+} 
