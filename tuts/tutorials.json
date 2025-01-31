@@ -77,18 +77,6 @@
         "github": ""
       },
       "date": "2025-01-30"
-    },
-    {
-      "id": "rust-datamodel-dumper",
-      "title": "How to dump DataModel using Rust",
-      "description": "This article explains how to use pattern scanning to dynamically locate Roblox's RenderView address, bypassing hardcoded offsets for reliable reverse engineering. It covers memory region handling, offsets for Datamodel resolution, and optimizations like caching for real-time performance.",
-      "date": "2025-01-31T12:10:17.099Z",
-      "author": {
-        "name": "bufferization",
-        "id": "795928925654089760",
-        "postedAdmin": false
-      },
-      "patched": false
     }
   ]
 }
