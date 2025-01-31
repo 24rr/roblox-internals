@@ -77,6 +77,20 @@
         "github": ""
       },
       "date": "2025-01-30"
+    },
+    {
+      "id": "rust-datamodel-dumper",
+      "title": "How to dump DataModel using Rust",
+      "description": "Rust version of Xspy's Tutorial",
+      "date": "2025-01-31T13:05:34.092Z",
+      "author": {
+        "name": "bufferization",
+        "id": "795928925654089760",
+        "github": "bufferization",
+        "image": "https://raw.githubusercontent.com/24rr/roblox-internals/refs/heads/main/users/profiles/795928925654089760.png",
+        "postedAdmin": false
+      },
+      "patched": false
     }
   ]
 }
