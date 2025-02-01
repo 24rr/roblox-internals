@@ -12,7 +12,6 @@
   ],
   "tutorials": [
     "rust-datamodel-dumper",
-    "test_3578",
-    "test_5516"
+    "test_3578"
   ]
 }
