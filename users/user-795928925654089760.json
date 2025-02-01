@@ -11,7 +11,6 @@
     "admin"
   ],
   "tutorials": [
-    "rust-datamodel-dumper",
-    "test_3578"
+    "rust-datamodel-dumper"
   ]
 }
