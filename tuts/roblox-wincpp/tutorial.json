@@ -1,0 +1,19 @@
+{
+  "id": "roblox-wincpp",
+  "title": "How can you use WinCPP to reverse Roblox",
+  "description": "A fully featured Win32 wrapper written in modern C++",
+  "date": "2025-02-01T12:44:14.193Z",
+  "author": {
+    "name": "bufferization",
+    "discordId": "795928925654089760",
+    "image": "https://cdn.discordapp.com/avatars/795928925654089760/84d248804da6db335c8cb564d7becc7d.webp",
+    "roles": [
+      "admin"
+    ],
+    "badges": [
+      "admin",
+      "owner"
+    ]
+  },
+  "patched": false
+}
